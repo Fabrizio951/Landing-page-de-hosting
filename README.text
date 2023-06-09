@@ -10,3 +10,38 @@ Fabrizio: Servidor Privado
 Adrian: Servidor Cloud
 Maricarmen: Hosting y servidores
 Nicolle: Servido Dedicado
+
+Para crear mi parte primero hice mi  investigación, inicie con la creación de los titulos y temas, usando imagenes para ilustrar. Los separe mediante un <div> cada uno con su propia clase.
+Tambien hice el enlaze con el css: <link rel="stylesheet" href="style/styleSP.css">
+El  header que usaremos sera uno ya creado para las otras páginas.
+Luego de terminar de agregar el texto y las imagenes, agregue color usando diferentes colores:
+.texto-Caracteristicas {
+	background-color: #4CF6E9;
+	padding: 20px;
+}
+.texto-Ventajas {
+	background-color: #FFC548;
+	padding: 20px;
+}
+.texto-Diferencias {
+	background-color: #74F83E;
+	padding: 20px;
+}
+.texto-Proveedores {
+	background-color: #C064F1;
+	padding: 20px;
+}
+.texto-Precios {
+	background-color: #DEF164;
+	padding: 20px;
+}
+.texto-Funcionamiento {
+	background-color: #F164EF;
+	padding: 20px;
+}
+
+.imagen-servidor {
+	text-align: center;
+	padding: 20px;
+}
+Finalmente usamos el footer ya diseñados que se usaran para el resto de las páginas.
