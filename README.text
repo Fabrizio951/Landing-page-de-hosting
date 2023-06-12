@@ -1,47 +1,39 @@
-VER Landing page: https://fabrizio951.github.io/semana3/index.html
+VER: https://fabrizio951.github.io/semana3/index.html
 Trabajo realizado por: 
 -ADRIANN JOSUE ALVARADO SANCHEZ
 -MARICARMEN CATALINA RAYMUNDO ROMERO
 -FABRIZIO SANTIAGO ZUNIGA ARIVILCA
 -NICOLLE ABRIL PALOMINO QUISPE
 
-El grupo se reparten los temas a cada uno de los integrantes, su investigación y creación de la página. Cada uno tendra que crear un html con su CSS para no interferir con los otros.
+El grupo se reparten los temas a cada uno de los integrantes, su investigación y creación de la página. Cada uno tendra que crear un html con su CSS para no interferir con los otros:
 Fabrizio: Servidor Privado
 Adrian: Servidor Cloud
 Maricarmen: Hosting y servidores
 Nicolle: Servido Dedicado
 
-Para crear mi parte primero hice mi  investigación, inicie con la creación de los titulos y temas, usando imagenes para ilustrar. Los separe mediante un <div> cada uno con su propia clase.
-Tambien hice el enlaze con el css: <link rel="stylesheet" href="style/styleSP.css">
-El  header que usaremos sera uno ya creado para las otras páginas.
-Luego de terminar de agregar el texto y las imagenes, agregue color usando diferentes colores:
-.texto-Caracteristicas {
-	background-color: #4CF6E9;
-	padding: 20px;
-}
-.texto-Ventajas {
-	background-color: #FFC548;
-	padding: 20px;
-}
-.texto-Diferencias {
-	background-color: #74F83E;
-	padding: 20px;
-}
-.texto-Proveedores {
-	background-color: #C064F1;
-	padding: 20px;
-}
-.texto-Precios {
-	background-color: #DEF164;
-	padding: 20px;
-}
-.texto-Funcionamiento {
-	background-color: #F164EF;
-	padding: 20px;
-}
+Descripción del Proyecto:
+Este documento proporciona una descripción y documentación del proyecto de Servidores Privados, que incluye el código HTML y CSS utilizados para construir el sitio web. El proyecto se centra en la presentación de información sobre los servidores privados y sus características, ventajas, diferencias, proveedores, precios y funcionamiento.
 
-.imagen-servidor {
-	text-align: center;
-	padding: 20px;
-}
-Finalmente usamos el footer ya diseñados que se usaran para el resto de las páginas.
+Estructura del Proyecto
+El proyecto se compone de un archivo HTML y CSS.
+
+Index:
+El archivo index.html sigue una estructura HTML básica y consta de los siguientes elementos principales:
+
+Elemento head: Contiene metadatos, como la codificación de caracteres, la compatibilidad con IE y la configuración de la vista del dispositivo, así como el título del sitio web y una referencia al archivo de estilo CSS externo.
+Elemento body: Contiene todo el contenido visible del sitio web, como el encabezado, el artículo y el pie de página.
+Encabezado (header): Representa el encabezado del sitio web e incluye un logotipo y una barra de navegación.
+Artículo (article): Contiene varios elementos div que representan diferentes secciones de información sobre los servidores privados, como características, ventajas, diferencias, proveedores, precios y funcionamiento. Cada sección contiene títulos y párrafos descriptivos.
+Pie de página (footer): Representa el pie de página del sitio web y contiene enlaces para navegar a las secciones anteriores y siguientes.
+
+CSS:
+El archivo styleSP.css contiene reglas CSS que se aplican al sitio web para proporcionar un diseño y estilo visual atractivo. A continuación se presentan algunos de los estilos CSS utilizados en el proyecto:
+
+Fuentes y Margen: Se especifica el tipo de fuente y el margen para el cuerpo del sitio web.
+Encabezado: Se establece el color de fondo y el color del texto del encabezado, así como el relleno interno.
+Botones: Se definen los estilos para los botones de navegación, incluyendo el color de fondo, el color del texto, el relleno, el borde y la apariencia al pasar el cursor sobre ellos.
+Navegación: Se definen los estilos para la barra de navegación, incluyendo los elementos de la lista, los márgenes y los enlaces.
+Párrafos: Se establecen los estilos para los párrafos, incluyendo el tamaño de fuente, el espaciado entre líneas y los márgenes.
+Pie de página: Se establece el estilo del pie de página, incluyendo el color de fondo, el texto centrado y el relleno.
+Secciones de texto: Se definen los estilos para las secciones de texto en el artículo, incluyendo el color de fondo y el relleno.
+Imágenes: Se establece el estilo para las imágenes de proveedores, incluyendo el tamaño.
