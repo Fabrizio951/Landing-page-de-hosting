@@ -14,21 +14,19 @@ Nicolle: Servido Dedicado
 Descripción del Proyecto:
 Este documento proporciona una descripción y documentación del proyecto de Servidores Privados, que incluye el código HTML y CSS utilizados para construir el sitio web. El proyecto se centra en la presentación de información sobre los servidores privados y sus características, ventajas, diferencias, proveedores, precios y funcionamiento.
 
-Estructura del Proyecto
+1. Estructura del Proyecto
 El proyecto se compone de un archivo HTML y CSS.
 
-Index:
-El archivo index.html sigue una estructura HTML básica y consta de los siguientes elementos principales:
+2. Crear arhcivoIndex:
+Elementos:
+<head> Contiene metadatos, como la codificación de caracteres, la compatibilidad con IE y la configuración de la vista del dispositivo, así como el título del sitio web y una referencia al archivo de estilo CSS externo.
+<body> Contiene todo el contenido visible del sitio web, como el encabezado, el artículo y el pie de página.
+<header> Representa el encabezado del sitio web e incluye un logotipo y una barra de navegación.
+<article> Contiene varios elementos div que representan diferentes secciones de información sobre los servidores privados, como características, ventajas, diferencias, proveedores, precios y funcionamiento. Cada sección contiene títulos y párrafos descriptivos.
+<footer> Representa el pie de página del sitio web y contiene enlaces para navegar a las secciones anteriores y siguientes.
 
-Elemento head: Contiene metadatos, como la codificación de caracteres, la compatibilidad con IE y la configuración de la vista del dispositivo, así como el título del sitio web y una referencia al archivo de estilo CSS externo.
-Elemento body: Contiene todo el contenido visible del sitio web, como el encabezado, el artículo y el pie de página.
-Encabezado (header): Representa el encabezado del sitio web e incluye un logotipo y una barra de navegación.
-Artículo (article): Contiene varios elementos div que representan diferentes secciones de información sobre los servidores privados, como características, ventajas, diferencias, proveedores, precios y funcionamiento. Cada sección contiene títulos y párrafos descriptivos.
-Pie de página (footer): Representa el pie de página del sitio web y contiene enlaces para navegar a las secciones anteriores y siguientes.
-
-CSS:
-El archivo styleSP.css contiene reglas CSS que se aplican al sitio web para proporcionar un diseño y estilo visual atractivo. A continuación se presentan algunos de los estilos CSS utilizados en el proyecto:
-
+3. Crear archivo CSS:
+A continuación se presentan algunos de los estilos CSS utilizados en el proyecto:
 Fuentes y Margen: Se especifica el tipo de fuente y el margen para el cuerpo del sitio web.
 Encabezado: Se establece el color de fondo y el color del texto del encabezado, así como el relleno interno.
 Botones: Se definen los estilos para los botones de navegación, incluyendo el color de fondo, el color del texto, el relleno, el borde y la apariencia al pasar el cursor sobre ellos.
