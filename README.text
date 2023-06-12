@@ -17,7 +17,7 @@ Este documento proporciona una descripción y documentación del proyecto de Ser
 1. Estructura del Proyecto
 El proyecto se compone de un archivo HTML y CSS.
 
-2. Crear arhcivoIndex:
+2. Crear arhcivo HTML:
 Elementos:
 <head> Contiene metadatos, como la codificación de caracteres, la compatibilidad con IE y la configuración de la vista del dispositivo, así como el título del sitio web y una referencia al archivo de estilo CSS externo.
 <body> Contiene todo el contenido visible del sitio web, como el encabezado, el artículo y el pie de página.
