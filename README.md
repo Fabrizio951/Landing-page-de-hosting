@@ -1,8 +1,13 @@
 VER: https://fabrizio951.github.io/semana3/index.html
+
 Trabajo realizado por: 
+
 -ADRIANN JOSUE ALVARADO SANCHEZ
+
 -MARICARMEN CATALINA RAYMUNDO ROMERO
+
 -FABRIZIO SANTIAGO ZUNIGA ARIVILCA
+
 -NICOLLE ABRIL PALOMINO QUISPE
 
 El grupo se reparten los temas a cada uno de los integrantes, su investigación y creación de la página. Cada uno tendra que crear un html con su CSS para no interferir con los otros:
