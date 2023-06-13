@@ -24,6 +24,10 @@ Descripción del Proyecto:
 
 Este documento proporciona una descripción y documentación del proyecto de Servidores Privados, que incluye el código HTML y CSS utilizados para construir el sitio web. El proyecto se centra en la presentación de información sobre los servidores privados y sus características, ventajas, diferencias, proveedores, precios y funcionamiento.
 
+![ERROR AL SUBIR LA IMAGEN](landimg/foto1.png)
+![ERROR AL SUBIR LA IMAGEN](landimg/foto2.png)
+![ERROR AL SUBIR LA IMAGEN](landimg/foto3.png)
+
 1. Estructura del Proyecto:
 
 El proyecto se compone de un archivo HTML y CSS.
